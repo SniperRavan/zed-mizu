@@ -161,13 +161,13 @@ fs.writeFileSync(themeJsonPath, JSON.stringify(iconThemeJson, null, 2));
 console.log(`Generated Zed icon theme at ${themeJsonPath}`);
 
 // Write extension.toml
-const extensionToml = `id = "mizu"
+const extensionToml = `id = "mizu-icon-theme"
 name = "Mizu"
-version = "2.10.1"
+version = "2.11.0"
 schema_version = 1
-authors = ["m39u <https://github.com/m39u>", "sniperravan"]
-description = "700+ icons for many languages and frameworks, converted for Zed."
-repository = "https://github.com/m39u/mizu"
+authors = ["m39u <https://github.com/m39u>", "SniperRavan <https://github.com/SniperRavan>"]
+description = "750+ icons for many languages and frameworks, converted from VS Code Mizu for Zed."
+repository = "https://github.com/SniperRavan/zed-mizu"
 `;
 
 fs.writeFileSync(path.join(outDir, "extension.toml"), extensionToml);

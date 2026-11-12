@@ -47,6 +47,46 @@
           "collapsed": "./icons/adobeFolder.svg",
           "expanded": "./icons/adobeFolderX.svg"
         },
+        "activities": {
+          "collapsed": "./icons/analyticsFolder.svg",
+          "expanded": "./icons/analyticsFolderX.svg"
+        },
+        "activity": {
+          "collapsed": "./icons/analyticsFolder.svg",
+          "expanded": "./icons/analyticsFolderX.svg"
+        },
+        "analytic": {
+          "collapsed": "./icons/analyticsFolder.svg",
+          "expanded": "./icons/analyticsFolderX.svg"
+        },
+        "analytics": {
+          "collapsed": "./icons/analyticsFolder.svg",
+          "expanded": "./icons/analyticsFolderX.svg"
+        },
+        "identifier": {
+          "collapsed": "./icons/analyticsFolder.svg",
+          "expanded": "./icons/analyticsFolderX.svg"
+        },
+        "identifiers": {
+          "collapsed": "./icons/analyticsFolder.svg",
+          "expanded": "./icons/analyticsFolderX.svg"
+        },
+        "metrics": {
+          "collapsed": "./icons/analyticsFolder.svg",
+          "expanded": "./icons/analyticsFolderX.svg"
+        },
+        "tracker": {
+          "collapsed": "./icons/analyticsFolder.svg",
+          "expanded": "./icons/analyticsFolderX.svg"
+        },
+        "trackers": {
+          "collapsed": "./icons/analyticsFolder.svg",
+          "expanded": "./icons/analyticsFolderX.svg"
+        },
+        "tracking": {
+          "collapsed": "./icons/analyticsFolder.svg",
+          "expanded": "./icons/analyticsFolderX.svg"
+        },
         "android": {
           "collapsed": "./icons/androidFolder.svg",
           "expanded": "./icons/androidFolderX.svg"
@@ -455,6 +495,14 @@
           "collapsed": "./icons/broadcastFolder.svg",
           "expanded": "./icons/broadcastFolderX.svg"
         },
+        "live": {
+          "collapsed": "./icons/broadcastFolder.svg",
+          "expanded": "./icons/broadcastFolderX.svg"
+        },
+        "liveevents": {
+          "collapsed": "./icons/broadcastFolder.svg",
+          "expanded": "./icons/broadcastFolderX.svg"
+        },
         "buildkite": {
           "collapsed": "./icons/buildkiteFolder.svg",
           "expanded": "./icons/buildkiteFolderX.svg"
@@ -571,11 +619,31 @@
           "collapsed": "./icons/certificateFolder.svg",
           "expanded": "./icons/certificateFolderX.svg"
         },
+        "article": {
+          "collapsed": "./icons/chatFolder.svg",
+          "expanded": "./icons/chatFolderX.svg"
+        },
+        "articles": {
+          "collapsed": "./icons/chatFolder.svg",
+          "expanded": "./icons/chatFolderX.svg"
+        },
+        "blog": {
+          "collapsed": "./icons/chatFolder.svg",
+          "expanded": "./icons/chatFolderX.svg"
+        },
+        "blogs": {
+          "collapsed": "./icons/chatFolder.svg",
+          "expanded": "./icons/chatFolderX.svg"
+        },
         "chat": {
           "collapsed": "./icons/chatFolder.svg",
           "expanded": "./icons/chatFolderX.svg"
         },
         "chats": {
+          "collapsed": "./icons/chatFolder.svg",
+          "expanded": "./icons/chatFolderX.svg"
+        },
+        "communication": {
           "collapsed": "./icons/chatFolder.svg",
           "expanded": "./icons/chatFolderX.svg"
         },
@@ -592,6 +660,14 @@
           "expanded": "./icons/chatFolderX.svg"
         },
         "convos": {
+          "collapsed": "./icons/chatFolder.svg",
+          "expanded": "./icons/chatFolderX.svg"
+        },
+        "dialog": {
+          "collapsed": "./icons/chatFolder.svg",
+          "expanded": "./icons/chatFolderX.svg"
+        },
+        "dialogs": {
           "collapsed": "./icons/chatFolder.svg",
           "expanded": "./icons/chatFolderX.svg"
         },
@@ -644,6 +720,14 @@
           "expanded": "./icons/chatFolderX.svg"
         },
         "posts": {
+          "collapsed": "./icons/chatFolder.svg",
+          "expanded": "./icons/chatFolderX.svg"
+        },
+        "thread": {
+          "collapsed": "./icons/chatFolder.svg",
+          "expanded": "./icons/chatFolderX.svg"
+        },
+        "threads": {
           "collapsed": "./icons/chatFolder.svg",
           "expanded": "./icons/chatFolderX.svg"
         },
@@ -1399,6 +1483,14 @@
           "collapsed": "./icons/distFolder.svg",
           "expanded": "./icons/distFolderX.svg"
         },
+        "product": {
+          "collapsed": "./icons/distFolder.svg",
+          "expanded": "./icons/distFolderX.svg"
+        },
+        "products": {
+          "collapsed": "./icons/distFolder.svg",
+          "expanded": "./icons/distFolderX.svg"
+        },
         "pub": {
           "collapsed": "./icons/distFolder.svg",
           "expanded": "./icons/distFolderX.svg"
@@ -1867,6 +1959,14 @@
           "collapsed": "./icons/eventFolder.svg",
           "expanded": "./icons/eventFolderX.svg"
         },
+        "demo": {
+          "collapsed": "./icons/exampleFolder.svg",
+          "expanded": "./icons/exampleFolderX.svg"
+        },
+        "demos": {
+          "collapsed": "./icons/exampleFolder.svg",
+          "expanded": "./icons/exampleFolderX.svg"
+        },
         "dem": {
           "collapsed": "./icons/exampleFolder.svg",
           "expanded": "./icons/exampleFolderX.svg"
@@ -2012,6 +2112,10 @@
           "expanded": "./icons/feedbackFolderX.svg"
         },
         "questions": {
+          "collapsed": "./icons/feedbackFolder.svg",
+          "expanded": "./icons/feedbackFolderX.svg"
+        },
+        "reporting": {
           "collapsed": "./icons/feedbackFolder.svg",
           "expanded": "./icons/feedbackFolderX.svg"
         },
@@ -2527,6 +2631,10 @@
           "collapsed": "./icons/groupFolder.svg",
           "expanded": "./icons/groupFolderX.svg"
         },
+        "grouped": {
+          "collapsed": "./icons/groupFolder.svg",
+          "expanded": "./icons/groupFolderX.svg"
+        },
         "group": {
           "collapsed": "./icons/groupFolder.svg",
           "expanded": "./icons/groupFolderX.svg"
@@ -2767,6 +2875,14 @@
           "collapsed": "./icons/imageFolder.svg",
           "expanded": "./icons/imageFolderX.svg"
         },
+        "galleries": {
+          "collapsed": "./icons/imageFolder.svg",
+          "expanded": "./icons/imageFolderX.svg"
+        },
+        "gallery": {
+          "collapsed": "./icons/imageFolder.svg",
+          "expanded": "./icons/imageFolderX.svg"
+        },
         "image": {
           "collapsed": "./icons/imageFolder.svg",
           "expanded": "./icons/imageFolderX.svg"
@@ -2831,6 +2947,14 @@
           "collapsed": "./icons/imageFolder.svg",
           "expanded": "./icons/imageFolderX.svg"
         },
+        "poster": {
+          "collapsed": "./icons/imageFolder.svg",
+          "expanded": "./icons/imageFolderX.svg"
+        },
+        "posters": {
+          "collapsed": "./icons/imageFolder.svg",
+          "expanded": "./icons/imageFolderX.svg"
+        },
         "screengrab": {
           "collapsed": "./icons/imageFolder.svg",
           "expanded": "./icons/imageFolderX.svg"
@@ -2844,6 +2968,26 @@
           "expanded": "./icons/imageFolderX.svg"
         },
         "screenshots": {
+          "collapsed": "./icons/imageFolder.svg",
+          "expanded": "./icons/imageFolderX.svg"
+        },
+        "splash": {
+          "collapsed": "./icons/imageFolder.svg",
+          "expanded": "./icons/imageFolderX.svg"
+        },
+        "thumbnail": {
+          "collapsed": "./icons/imageFolder.svg",
+          "expanded": "./icons/imageFolderX.svg"
+        },
+        "thumbnails": {
+          "collapsed": "./icons/imageFolder.svg",
+          "expanded": "./icons/imageFolderX.svg"
+        },
+        "thumb": {
+          "collapsed": "./icons/imageFolder.svg",
+          "expanded": "./icons/imageFolderX.svg"
+        },
+        "thumbs": {
           "collapsed": "./icons/imageFolder.svg",
           "expanded": "./icons/imageFolderX.svg"
         },
@@ -3048,6 +3192,14 @@
           "expanded": "./icons/keyFolderX.svg"
         },
         "hmac": {
+          "collapsed": "./icons/keyFolder.svg",
+          "expanded": "./icons/keyFolderX.svg"
+        },
+        "identities": {
+          "collapsed": "./icons/keyFolder.svg",
+          "expanded": "./icons/keyFolderX.svg"
+        },
+        "identity": {
           "collapsed": "./icons/keyFolder.svg",
           "expanded": "./icons/keyFolderX.svg"
         },
@@ -3287,6 +3439,14 @@
           "collapsed": "./icons/linkFolder.svg",
           "expanded": "./icons/linkFolderX.svg"
         },
+        "checker": {
+          "collapsed": "./icons/lintFolder.svg",
+          "expanded": "./icons/lintFolderX.svg"
+        },
+        "checkers": {
+          "collapsed": "./icons/lintFolder.svg",
+          "expanded": "./icons/lintFolderX.svg"
+        },
         "check": {
           "collapsed": "./icons/lintFolder.svg",
           "expanded": "./icons/lintFolderX.svg"
@@ -3299,7 +3459,23 @@
           "collapsed": "./icons/lintFolder.svg",
           "expanded": "./icons/lintFolderX.svg"
         },
+        "format": {
+          "collapsed": "./icons/lintFolder.svg",
+          "expanded": "./icons/lintFolderX.svg"
+        },
+        "formatter": {
+          "collapsed": "./icons/lintFolder.svg",
+          "expanded": "./icons/lintFolderX.svg"
+        },
+        "formatters": {
+          "collapsed": "./icons/lintFolder.svg",
+          "expanded": "./icons/lintFolderX.svg"
+        },
         "lint": {
+          "collapsed": "./icons/lintFolder.svg",
+          "expanded": "./icons/lintFolderX.svg"
+        },
+        "lint-rules": {
           "collapsed": "./icons/lintFolder.svg",
           "expanded": "./icons/lintFolderX.svg"
         },
@@ -3684,6 +3860,18 @@
           "expanded": "./icons/mailFolderX.svg"
         },
         "smtp": {
+          "collapsed": "./icons/mailFolder.svg",
+          "expanded": "./icons/mailFolderX.svg"
+        },
+        "transport": {
+          "collapsed": "./icons/mailFolder.svg",
+          "expanded": "./icons/mailFolderX.svg"
+        },
+        "transporter": {
+          "collapsed": "./icons/mailFolder.svg",
+          "expanded": "./icons/mailFolderX.svg"
+        },
+        "transporters": {
           "collapsed": "./icons/mailFolder.svg",
           "expanded": "./icons/mailFolderX.svg"
         },
@@ -4815,6 +5003,18 @@
           "collapsed": "./icons/storageFolder.svg",
           "expanded": "./icons/storageFolderX.svg"
         },
+        "mem": {
+          "collapsed": "./icons/storageFolder.svg",
+          "expanded": "./icons/storageFolderX.svg"
+        },
+        "memory": {
+          "collapsed": "./icons/storageFolder.svg",
+          "expanded": "./icons/storageFolderX.svg"
+        },
+        "persisted": {
+          "collapsed": "./icons/storageFolder.svg",
+          "expanded": "./icons/storageFolderX.svg"
+        },
         "storage": {
           "collapsed": "./icons/storageFolder.svg",
           "expanded": "./icons/storageFolderX.svg"
@@ -5251,6 +5451,30 @@
           "collapsed": "./icons/testFolder.svg",
           "expanded": "./icons/testFolderX.svg"
         },
+        "content": {
+          "collapsed": "./icons/textFolder.svg",
+          "expanded": "./icons/textFolderX.svg"
+        },
+        "contents": {
+          "collapsed": "./icons/textFolder.svg",
+          "expanded": "./icons/textFolderX.svg"
+        },
+        "context": {
+          "collapsed": "./icons/textFolder.svg",
+          "expanded": "./icons/textFolderX.svg"
+        },
+        "contexts": {
+          "collapsed": "./icons/textFolder.svg",
+          "expanded": "./icons/textFolderX.svg"
+        },
+        "snippet": {
+          "collapsed": "./icons/textFolder.svg",
+          "expanded": "./icons/textFolderX.svg"
+        },
+        "snippets": {
+          "collapsed": "./icons/textFolder.svg",
+          "expanded": "./icons/textFolderX.svg"
+        },
         "text": {
           "collapsed": "./icons/textFolder.svg",
           "expanded": "./icons/textFolderX.svg"
@@ -5258,6 +5482,22 @@
         "texts": {
           "collapsed": "./icons/textFolder.svg",
           "expanded": "./icons/textFolderX.svg"
+        },
+        "renderer": {
+          "collapsed": "./icons/textureFolder.svg",
+          "expanded": "./icons/textureFolderX.svg"
+        },
+        "renderers": {
+          "collapsed": "./icons/textureFolder.svg",
+          "expanded": "./icons/textureFolderX.svg"
+        },
+        "render": {
+          "collapsed": "./icons/textureFolder.svg",
+          "expanded": "./icons/textureFolderX.svg"
+        },
+        "renders": {
+          "collapsed": "./icons/textureFolder.svg",
+          "expanded": "./icons/textureFolderX.svg"
         },
         "texture": {
           "collapsed": "./icons/textureFolder.svg",
@@ -5295,11 +5535,43 @@
           "collapsed": "./icons/themeFolder.svg",
           "expanded": "./icons/themeFolderX.svg"
         },
+        "drawable": {
+          "collapsed": "./icons/themeFolder.svg",
+          "expanded": "./icons/themeFolderX.svg"
+        },
+        "drawing": {
+          "collapsed": "./icons/themeFolder.svg",
+          "expanded": "./icons/themeFolderX.svg"
+        },
+        "drawings": {
+          "collapsed": "./icons/themeFolder.svg",
+          "expanded": "./icons/themeFolderX.svg"
+        },
+        "illust": {
+          "collapsed": "./icons/themeFolder.svg",
+          "expanded": "./icons/themeFolderX.svg"
+        },
+        "illustration": {
+          "collapsed": "./icons/themeFolder.svg",
+          "expanded": "./icons/themeFolderX.svg"
+        },
+        "illustrations": {
+          "collapsed": "./icons/themeFolder.svg",
+          "expanded": "./icons/themeFolderX.svg"
+        },
         "pattern": {
           "collapsed": "./icons/themeFolder.svg",
           "expanded": "./icons/themeFolderX.svg"
         },
         "patterns": {
+          "collapsed": "./icons/themeFolder.svg",
+          "expanded": "./icons/themeFolderX.svg"
+        },
+        "ui": {
+          "collapsed": "./icons/themeFolder.svg",
+          "expanded": "./icons/themeFolderX.svg"
+        },
+        "tui": {
           "collapsed": "./icons/themeFolder.svg",
           "expanded": "./icons/themeFolderX.svg"
         },
@@ -5486,6 +5758,14 @@
         "uploads": {
           "collapsed": "./icons/uploadFolder.svg",
           "expanded": "./icons/uploadFolderX.svg"
+        },
+        "actor": {
+          "collapsed": "./icons/userFolder.svg",
+          "expanded": "./icons/userFolderX.svg"
+        },
+        "actors": {
+          "collapsed": "./icons/userFolder.svg",
+          "expanded": "./icons/userFolderX.svg"
         },
         "author": {
           "collapsed": "./icons/userFolder.svg",
@@ -5865,6 +6145,9 @@
         "agda": {
           "path": "./icons/agda.svg"
         },
+        "analytics": {
+          "path": "./icons/analytics.svg"
+        },
         "android": {
           "path": "./icons/android.svg"
         },
@@ -5945,6 +6228,9 @@
         },
         "binary": {
           "path": "./icons/binary.svg"
+        },
+        "biome": {
+          "path": "./icons/biome.svg"
         },
         "bitbucket": {
           "path": "./icons/bitbucket.svg"
@@ -6086,6 +6372,9 @@
         },
         "cron": {
           "path": "./icons/cron.svg"
+        },
+        "crowdin": {
+          "path": "./icons/crowdin.svg"
         },
         "crystal": {
           "path": "./icons/crystal.svg"
@@ -6468,6 +6757,12 @@
         "javaJar": {
           "path": "./icons/javaJar.svg"
         },
+        "jekyll": {
+          "path": "./icons/jekyll.svg"
+        },
+        "jekyllIgnore": {
+          "path": "./icons/jekyllIgnore.svg"
+        },
         "jenkins": {
           "path": "./icons/jenkins.svg"
         },
@@ -6768,6 +7063,9 @@
         "partytown": {
           "path": "./icons/partytown.svg"
         },
+        "paseo": {
+          "path": "./icons/paseo.svg"
+        },
         "path": {
           "path": "./icons/path.svg"
         },
@@ -7038,6 +7336,9 @@
         "rust": {
           "path": "./icons/rust.svg"
         },
+        "rustApp": {
+          "path": "./icons/rustApp.svg"
+        },
         "rustDist": {
           "path": "./icons/rustDist.svg"
         },
@@ -7220,6 +7521,12 @@
         },
         "tomlLint": {
           "path": "./icons/tomlLint.svg"
+        },
+        "tomlTool": {
+          "path": "./icons/tomlTool.svg"
+        },
+        "tomlVersion": {
+          "path": "./icons/tomlVersion.svg"
         },
         "tool": {
           "path": "./icons/tool.svg"
@@ -8449,6 +8756,8 @@
         "LISP": "lisp",
         "ls": "livescript",
         "LS": "livescript",
+        "ftl": "locale",
+        "FTL": "locale",
         "po": "locale",
         "PO": "locale",
         "pot": "locale",
@@ -8938,6 +9247,8 @@
         "STY": "tex",
         "tex": "tex",
         "TEX": "tex",
+        "ebnf": "text",
+        "EBNF": "text",
         "txt": "text",
         "TXT": "text",
         "3d": "threed",
@@ -9422,6 +9733,12 @@
         "babel-plugin-macros.config.mjs": "babel",
         "BABEL-PLUGIN-MACROS.CONFIG.MJS": "babel",
         "Babel-plugin-macros.config.mjs": "babel",
+        "babel.config.ts": "babel",
+        "BABEL.CONFIG.TS": "babel",
+        "Babel.config.ts": "babel",
+        "babel-plugin-macros.config.ts": "babel",
+        "BABEL-PLUGIN-MACROS.CONFIG.TS": "babel",
+        "Babel-plugin-macros.config.ts": "babel",
         ".babel-plugin-macrosrc": "babel",
         ".BABEL-PLUGIN-MACROSRC": "babel",
         ".babel-plugin-macrosrc.js": "babel",
@@ -9442,6 +9759,8 @@
         ".BABELRC.JSON": "babel",
         ".babelrc.mjs": "babel",
         ".BABELRC.MJS": "babel",
+        ".babelrc.ts": "babel",
+        ".BABELRC.TS": "babel",
         "babel-transform.cjs": "babel",
         "BABEL-TRANSFORM.CJS": "babel",
         "Babel-transform.cjs": "babel",
@@ -9460,6 +9779,12 @@
         ".BAZELVERSION": "bazel",
         ".bazelignore": "bazelIgnore",
         ".BAZELIGNORE": "bazelIgnore",
+        "biome.json": "biome",
+        "BIOME.JSON": "biome",
+        "Biome.json": "biome",
+        "biome.jsonc": "biome",
+        "BIOME.JSONC": "biome",
+        "Biome.jsonc": "biome",
         "bitbucket-pipelines.yml": "bitbucket",
         "BITBUCKET-PIPELINES.YML": "bitbucket",
         "Bitbucket-pipelines.yml": "bitbucket",
@@ -9558,6 +9883,12 @@
         "jobs": "cron",
         "JOBS": "cron",
         "Jobs": "cron",
+        "crowdin.yml": "crowdin",
+        "CROWDIN.YML": "crowdin",
+        "Crowdin.yml": "crowdin",
+        "crowdin.yaml": "crowdin",
+        "CROWDIN.YAML": "crowdin",
+        "Crowdin.yaml": "crowdin",
         "app.css": "cssApp",
         "APP.CSS": "cssApp",
         "App.css": "cssApp",
@@ -9706,6 +10037,8 @@
         ".ENV.DEFAULTS": "environment",
         ".env.dist": "environment",
         ".ENV.DIST": "environment",
+        ".env.e2e": "environment",
+        ".ENV.E2E": "environment",
         ".env.example": "environment",
         ".ENV.EXAMPLE": "environment",
         ".env.sample": "environment",
@@ -9732,6 +10065,8 @@
         ".ESLINTRC.JS": "eslint",
         ".eslintrc.json": "eslint",
         ".ESLINTRC.JSON": "eslint",
+        ".eslintrc.ts": "eslint",
+        ".ESLINTRC.TS": "eslint",
         ".eslintrc.yml": "eslint",
         ".ESLINTRC.YML": "eslint",
         ".eslintrc.yaml": "eslint",
@@ -9781,6 +10116,12 @@
         "gatsby-ssr.js": "gatsby",
         "GATSBY-SSR.JS": "gatsby",
         "Gatsby-ssr.js": "gatsby",
+        "gatsby-browser.mjs": "gatsby",
+        "GATSBY-BROWSER.MJS": "gatsby",
+        "Gatsby-browser.mjs": "gatsby",
+        "gatsby-ssr.mjs": "gatsby",
+        "GATSBY-SSR.MJS": "gatsby",
+        "Gatsby-ssr.mjs": "gatsby",
         "gatsby-browser.ts": "gatsby",
         "GATSBY-BROWSER.TS": "gatsby",
         "Gatsby-browser.ts": "gatsby",
@@ -10089,12 +10430,23 @@
         ".NYCRC.YML": "istanbul",
         ".nycrc.yaml": "istanbul",
         ".NYCRC.YAML": "istanbul",
-        "nyc.config.js": "istanbul",
-        "NYC.CONFIG.JS": "istanbul",
-        "Nyc.config.js": "istanbul",
         "nyc.config.cjs": "istanbul",
         "NYC.CONFIG.CJS": "istanbul",
         "Nyc.config.cjs": "istanbul",
+        "nyc.config.js": "istanbul",
+        "NYC.CONFIG.JS": "istanbul",
+        "Nyc.config.js": "istanbul",
+        "nyc.config.ts": "istanbul",
+        "NYC.CONFIG.TS": "istanbul",
+        "Nyc.config.ts": "istanbul",
+        "_config.toml": "jekyll",
+        "_CONFIG.TOML": "jekyll",
+        "_config.yml": "jekyll",
+        "_CONFIG.YML": "jekyll",
+        "_config.yaml": "jekyll",
+        "_CONFIG.YAML": "jekyll",
+        ".nojekyll": "jekyllIgnore",
+        ".NOJEKYLL": "jekyllIgnore",
         "jenkinsfile": "jenkins",
         "JENKINSFILE": "jenkins",
         "Jenkinsfile": "jenkins",
@@ -10136,6 +10488,8 @@
         ".JESTRC.JS": "jest",
         ".jestrc.mjs": "jest",
         ".JESTRC.MJS": "jest",
+        ".jestrc.ts": "jest",
+        ".JESTRC.TS": "jest",
         "jest.config.cjs": "jest",
         "JEST.CONFIG.CJS": "jest",
         "Jest.config.cjs": "jest",
@@ -10306,63 +10660,246 @@
         "patents": "license",
         "PATENTS": "license",
         "Patents": "license",
+        "copyright": "license",
+        "COPYRIGHT": "license",
+        "Copyright": "license",
         "licence": "license",
         "LICENCE": "license",
         "Licence": "license",
         "license": "license",
         "LICENSE": "license",
         "License": "license",
-        "licence-agpl": "license",
-        "LICENCE-AGPL": "license",
-        "Licence-agpl": "license",
-        "license-agpl": "license",
-        "LICENSE-AGPL": "license",
-        "License-agpl": "license",
-        "licence-apache": "license",
-        "LICENCE-APACHE": "license",
-        "Licence-apache": "license",
-        "license-apache": "license",
-        "LICENSE-APACHE": "license",
-        "License-apache": "license",
-        "licence-gpl": "license",
-        "LICENCE-GPL": "license",
-        "Licence-gpl": "license",
-        "license-gpl": "license",
-        "LICENSE-GPL": "license",
-        "License-gpl": "license",
-        "licence-mit": "license",
-        "LICENCE-MIT": "license",
-        "Licence-mit": "license",
-        "license-mit": "license",
-        "LICENSE-MIT": "license",
-        "License-mit": "license",
+        "notice": "license",
+        "NOTICE": "license",
+        "Notice": "license",
+        "notices": "license",
+        "NOTICES": "license",
+        "Notices": "license",
+        "copyright.md": "license",
+        "COPYRIGHT.MD": "license",
+        "Copyright.md": "license",
         "licence.md": "license",
         "LICENCE.MD": "license",
         "Licence.md": "license",
         "license.md": "license",
         "LICENSE.MD": "license",
         "License.md": "license",
+        "notice.md": "license",
+        "NOTICE.MD": "license",
+        "Notice.md": "license",
+        "notices.md": "license",
+        "NOTICES.MD": "license",
+        "Notices.md": "license",
+        "copyright.rst": "license",
+        "COPYRIGHT.RST": "license",
+        "Copyright.rst": "license",
         "licence.rst": "license",
         "LICENCE.RST": "license",
         "Licence.rst": "license",
         "license.rst": "license",
         "LICENSE.RST": "license",
         "License.rst": "license",
+        "notice.rst": "license",
+        "NOTICE.RST": "license",
+        "Notice.rst": "license",
+        "notices.rst": "license",
+        "NOTICES.RST": "license",
+        "Notices.rst": "license",
+        "copyright.txt": "license",
+        "COPYRIGHT.TXT": "license",
+        "Copyright.txt": "license",
         "licence.txt": "license",
         "LICENCE.TXT": "license",
         "Licence.txt": "license",
         "license.txt": "license",
         "LICENSE.TXT": "license",
         "License.txt": "license",
-        "copyright": "license",
-        "COPYRIGHT": "license",
-        "Copyright": "license",
-        "copyright.md": "license",
-        "COPYRIGHT.MD": "license",
-        "Copyright.md": "license",
-        "copyright.txt": "license",
-        "COPYRIGHT.TXT": "license",
-        "Copyright.txt": "license",
+        "notice.txt": "license",
+        "NOTICE.TXT": "license",
+        "Notice.txt": "license",
+        "notices.txt": "license",
+        "NOTICES.TXT": "license",
+        "Notices.txt": "license",
+        "licence-agpl": "license",
+        "LICENCE-AGPL": "license",
+        "Licence-agpl": "license",
+        "license-agpl": "license",
+        "LICENSE-AGPL": "license",
+        "License-agpl": "license",
+        "licence_agpl": "license",
+        "LICENCE_AGPL": "license",
+        "Licence_agpl": "license",
+        "license_agpl": "license",
+        "LICENSE_AGPL": "license",
+        "License_agpl": "license",
+        "licence-apache": "license",
+        "LICENCE-APACHE": "license",
+        "Licence-apache": "license",
+        "license-apache": "license",
+        "LICENSE-APACHE": "license",
+        "License-apache": "license",
+        "licence_apache": "license",
+        "LICENCE_APACHE": "license",
+        "Licence_apache": "license",
+        "license_apache": "license",
+        "LICENSE_APACHE": "license",
+        "License_apache": "license",
+        "licence-bsd": "license",
+        "LICENCE-BSD": "license",
+        "Licence-bsd": "license",
+        "license-bsd": "license",
+        "LICENSE-BSD": "license",
+        "License-bsd": "license",
+        "licence_bsd": "license",
+        "LICENCE_BSD": "license",
+        "Licence_bsd": "license",
+        "license_bsd": "license",
+        "LICENSE_BSD": "license",
+        "License_bsd": "license",
+        "licence-gpl": "license",
+        "LICENCE-GPL": "license",
+        "Licence-gpl": "license",
+        "license-gpl": "license",
+        "LICENSE-GPL": "license",
+        "License-gpl": "license",
+        "licence_gpl": "license",
+        "LICENCE_GPL": "license",
+        "Licence_gpl": "license",
+        "license_gpl": "license",
+        "LICENSE_GPL": "license",
+        "License_gpl": "license",
+        "licence-mit": "license",
+        "LICENCE-MIT": "license",
+        "Licence-mit": "license",
+        "license-mit": "license",
+        "LICENSE-MIT": "license",
+        "License-mit": "license",
+        "licence_mit": "license",
+        "LICENCE_MIT": "license",
+        "Licence_mit": "license",
+        "license_mit": "license",
+        "LICENSE_MIT": "license",
+        "License_mit": "license",
+        "licence-agpl.rst": "license",
+        "LICENCE-AGPL.RST": "license",
+        "Licence-agpl.rst": "license",
+        "license-agpl.rst": "license",
+        "LICENSE-AGPL.RST": "license",
+        "License-agpl.rst": "license",
+        "licence_agpl.rst": "license",
+        "LICENCE_AGPL.RST": "license",
+        "Licence_agpl.rst": "license",
+        "license_agpl.rst": "license",
+        "LICENSE_AGPL.RST": "license",
+        "License_agpl.rst": "license",
+        "licence-apache.rst": "license",
+        "LICENCE-APACHE.RST": "license",
+        "Licence-apache.rst": "license",
+        "license-apache.rst": "license",
+        "LICENSE-APACHE.RST": "license",
+        "License-apache.rst": "license",
+        "licence_apache.rst": "license",
+        "LICENCE_APACHE.RST": "license",
+        "Licence_apache.rst": "license",
+        "license_apache.rst": "license",
+        "LICENSE_APACHE.RST": "license",
+        "License_apache.rst": "license",
+        "licence-bsd.rst": "license",
+        "LICENCE-BSD.RST": "license",
+        "Licence-bsd.rst": "license",
+        "license-bsd.rst": "license",
+        "LICENSE-BSD.RST": "license",
+        "License-bsd.rst": "license",
+        "licence_bsd.rst": "license",
+        "LICENCE_BSD.RST": "license",
+        "Licence_bsd.rst": "license",
+        "license_bsd.rst": "license",
+        "LICENSE_BSD.RST": "license",
+        "License_bsd.rst": "license",
+        "licence-gpl.rst": "license",
+        "LICENCE-GPL.RST": "license",
+        "Licence-gpl.rst": "license",
+        "license-gpl.rst": "license",
+        "LICENSE-GPL.RST": "license",
+        "License-gpl.rst": "license",
+        "licence_gpl.rst": "license",
+        "LICENCE_GPL.RST": "license",
+        "Licence_gpl.rst": "license",
+        "license_gpl.rst": "license",
+        "LICENSE_GPL.RST": "license",
+        "License_gpl.rst": "license",
+        "licence-mit.rst": "license",
+        "LICENCE-MIT.RST": "license",
+        "Licence-mit.rst": "license",
+        "license-mit.rst": "license",
+        "LICENSE-MIT.RST": "license",
+        "License-mit.rst": "license",
+        "licence_mit.rst": "license",
+        "LICENCE_MIT.RST": "license",
+        "Licence_mit.rst": "license",
+        "license_mit.rst": "license",
+        "LICENSE_MIT.RST": "license",
+        "License_mit.rst": "license",
+        "licence-agpl.txt": "license",
+        "LICENCE-AGPL.TXT": "license",
+        "Licence-agpl.txt": "license",
+        "license-agpl.txt": "license",
+        "LICENSE-AGPL.TXT": "license",
+        "License-agpl.txt": "license",
+        "licence_agpl.txt": "license",
+        "LICENCE_AGPL.TXT": "license",
+        "Licence_agpl.txt": "license",
+        "license_agpl.txt": "license",
+        "LICENSE_AGPL.TXT": "license",
+        "License_agpl.txt": "license",
+        "licence-apache.txt": "license",
+        "LICENCE-APACHE.TXT": "license",
+        "Licence-apache.txt": "license",
+        "license-apache.txt": "license",
+        "LICENSE-APACHE.TXT": "license",
+        "License-apache.txt": "license",
+        "licence_apache.txt": "license",
+        "LICENCE_APACHE.TXT": "license",
+        "Licence_apache.txt": "license",
+        "license_apache.txt": "license",
+        "LICENSE_APACHE.TXT": "license",
+        "License_apache.txt": "license",
+        "licence-bsd.txt": "license",
+        "LICENCE-BSD.TXT": "license",
+        "Licence-bsd.txt": "license",
+        "license-bsd.txt": "license",
+        "LICENSE-BSD.TXT": "license",
+        "License-bsd.txt": "license",
+        "licence_bsd.txt": "license",
+        "LICENCE_BSD.TXT": "license",
+        "Licence_bsd.txt": "license",
+        "license_bsd.txt": "license",
+        "LICENSE_BSD.TXT": "license",
+        "License_bsd.txt": "license",
+        "licence-gpl.txt": "license",
+        "LICENCE-GPL.TXT": "license",
+        "Licence-gpl.txt": "license",
+        "license-gpl.txt": "license",
+        "LICENSE-GPL.TXT": "license",
+        "License-gpl.txt": "license",
+        "licence_gpl.txt": "license",
+        "LICENCE_GPL.TXT": "license",
+        "Licence_gpl.txt": "license",
+        "license_gpl.txt": "license",
+        "LICENSE_GPL.TXT": "license",
+        "License_gpl.txt": "license",
+        "licence-mit.txt": "license",
+        "LICENCE-MIT.TXT": "license",
+        "Licence-mit.txt": "license",
+        "license-mit.txt": "license",
+        "LICENSE-MIT.TXT": "license",
+        "License-mit.txt": "license",
+        "licence_mit.txt": "license",
+        "LICENCE_MIT.TXT": "license",
+        "Licence_mit.txt": "license",
+        "license_mit.txt": "license",
+        "LICENSE_MIT.TXT": "license",
+        "License_mit.txt": "license",
         "lighthouserc.cjs": "lighthouse",
         "LIGHTHOUSERC.CJS": "lighthouse",
         "Lighthouserc.cjs": "lighthouse",
@@ -10378,6 +10915,11 @@
         "Lighthouserc.json": "lighthouse",
         ".lighthouserc.json": "lighthouse",
         ".LIGHTHOUSERC.JSON": "lighthouse",
+        "lighthouserc.ts": "lighthouse",
+        "LIGHTHOUSERC.TS": "lighthouse",
+        "Lighthouserc.ts": "lighthouse",
+        ".lighthouserc.ts": "lighthouse",
+        ".LIGHTHOUSERC.TS": "lighthouse",
         "lighthouserc.yml": "lighthouse",
         "LIGHTHOUSERC.YML": "lighthouse",
         "Lighthouserc.yml": "lighthouse",
@@ -10391,6 +10933,9 @@
         "lingui.config.js": "lingui",
         "LINGUI.CONFIG.JS": "lingui",
         "Lingui.config.js": "lingui",
+        "lingui.config.ts": "lingui",
+        "LINGUI.CONFIG.TS": "lingui",
+        "Lingui.config.ts": "lingui",
         "check": "lint",
         "CHECK": "lint",
         "Check": "lint",
@@ -10465,6 +11010,9 @@
         "metro.config.json": "metro",
         "METRO.CONFIG.JSON": "metro",
         "Metro.config.json": "metro",
+        "metro.config.ts": "metro",
+        "METRO.CONFIG.TS": "metro",
+        "Metro.config.ts": "metro",
         ".mcattributes": "minecraft",
         ".MCATTRIBUTES": "minecraft",
         ".mcdefinitions": "minecraft",
@@ -10477,6 +11025,8 @@
         ".MOCHARC.JSON": "mocha",
         ".mocharc.jsonc": "mocha",
         ".MOCHARC.JSONC": "mocha",
+        ".mocharc.ts": "mocha",
+        ".MOCHARC.TS": "mocha",
         ".mocharc.yml": "mocha",
         ".MOCHARC.YML": "mocha",
         ".mocharc.yaml": "mocha",
@@ -10490,6 +11040,8 @@
         ".MODERNIZRRC.JS": "modernizr",
         ".modernizrrc.json": "modernizr",
         ".MODERNIZRRC.JSON": "modernizr",
+        ".modernizrrc.ts": "modernizr",
+        ".MODERNIZRRC.TS": "modernizr",
         "nano-staged.cjs": "nanostaged",
         "NANO-STAGED.CJS": "nanostaged",
         "Nano-staged.cjs": "nanostaged",
@@ -10510,6 +11062,11 @@
         "Nano-staged.mjs": "nanostaged",
         ".nano-staged.mjs": "nanostaged",
         ".NANO-STAGED.MJS": "nanostaged",
+        "nano-staged.ts": "nanostaged",
+        "NANO-STAGED.TS": "nanostaged",
+        "Nano-staged.ts": "nanostaged",
+        ".nano-staged.ts": "nanostaged",
+        ".NANO-STAGED.TS": "nanostaged",
         ".nanostagedrc": "nanostaged",
         ".NANOSTAGEDRC": "nanostaged",
         "netlify.toml": "netlify",
@@ -10581,6 +11138,11 @@
         "partytown": "partytown",
         "PARTYTOWN": "partytown",
         "Partytown": "partytown",
+        ".paseo/config.json": "paseo",
+        ".PASEO/CONFIG.JSON": "paseo",
+        "paseo.json": "paseo",
+        "PASEO.JSON": "paseo",
+        "Paseo.json": "paseo",
         ".percy.yml": "percy",
         ".PERCY.YML": "percy",
         ".huskyrc": "pet",
@@ -10589,6 +11151,8 @@
         ".HUSKYRC.JS": "pet",
         ".huskyrc.json": "pet",
         ".HUSKYRC.JSON": "pet",
+        ".huskyrc.ts": "pet",
+        ".HUSKYRC.TS": "pet",
         ".huskyrc.yml": "pet",
         ".HUSKYRC.YML": "pet",
         ".huskyrc.yaml": "pet",
@@ -10596,6 +11160,9 @@
         "husky.config.js": "pet",
         "HUSKY.CONFIG.JS": "pet",
         "Husky.config.js": "pet",
+        "husky.config.ts": "pet",
+        "HUSKY.CONFIG.TS": "pet",
+        "Husky.config.ts": "pet",
         "plasmic.json": "plasmic",
         "PLASMIC.JSON": "plasmic",
         "Plasmic.json": "plasmic",
@@ -10675,6 +11242,8 @@
         ".PRETTIERRC.MJS": "prettier",
         ".prettierrc.toml": "prettier",
         ".PRETTIERRC.TOML": "prettier",
+        ".prettierrc.ts": "prettier",
+        ".PRETTIERRC.TS": "prettier",
         ".prettierrc.yml": "prettier",
         ".PRETTIERRC.YML": "prettier",
         ".prettierrc.yaml": "prettier",
@@ -10688,6 +11257,9 @@
         "prettier.config.mjs": "prettier",
         "PRETTIER.CONFIG.MJS": "prettier",
         "Prettier.config.mjs": "prettier",
+        "prettier.config.ts": "prettier",
+        "PRETTIER.CONFIG.TS": "prettier",
+        "Prettier.config.ts": "prettier",
         ".prettierignore": "prettierIgnore",
         ".PRETTIERIGNORE": "prettierIgnore",
         "protractor.conf.js": "protractor",
@@ -10708,6 +11280,8 @@
         ".PUG-LINTRC.JS": "pugLint",
         ".pug-lintrc.json": "pugLint",
         ".PUG-LINTRC.JSON": "pugLint",
+        ".pug-lintrc.ts": "pugLint",
+        ".PUG-LINTRC.TS": "pugLint",
         "manifest.json": "pwa",
         "MANIFEST.JSON": "pwa",
         "Manifest.json": "pwa",
@@ -10942,6 +11516,12 @@
         "run": "run",
         "RUN": "run",
         "Run": "run",
+        "app.rs": "rustApp",
+        "APP.RS": "rustApp",
+        "App.rs": "rustApp",
+        "application.rs": "rustApp",
+        "APPLICATION.RS": "rustApp",
+        "Application.rs": "rustApp",
         "build.rs": "rustDist",
         "BUILD.RS": "rustDist",
         "Build.rs": "rustDist",
@@ -11056,6 +11636,8 @@
         ".STYLELINTRC.JS": "stylelint",
         ".stylelintrc.json": "stylelint",
         ".STYLELINTRC.JSON": "stylelint",
+        ".stylelintrc.ts": "stylelint",
+        ".STYLELINTRC.TS": "stylelint",
         ".stylelintrc.yml": "stylelint",
         ".STYLELINTRC.YML": "stylelint",
         ".stylelintrc.yaml": "stylelint",
@@ -11066,6 +11648,9 @@
         "stylelint.config.js": "stylelint",
         "STYLELINT.CONFIG.JS": "stylelint",
         "Stylelint.config.js": "stylelint",
+        "stylelint.config.ts": "stylelint",
+        "STYLELINT.CONFIG.TS": "stylelint",
+        "Stylelint.config.ts": "stylelint",
         ".stylelintignore": "stylelintIgnore",
         ".STYLELINTIGNORE": "stylelintIgnore",
         "supabase.js": "supabase",
@@ -11098,6 +11683,9 @@
         "svgo.config.mjs": "svgo",
         "SVGO.CONFIG.MJS": "svgo",
         "Svgo.config.mjs": "svgo",
+        "svgo.config.ts": "svgo",
+        "SVGO.CONFIG.TS": "svgo",
+        "Svgo.config.ts": "svgo",
         ".swcrc": "swc",
         ".SWCRC": "swc",
         "tailwind.config.cjs": "tailwind",
@@ -11182,6 +11770,9 @@
         "Rustfmt.toml": "tomlLint",
         ".rustfmt.toml": "tomlLint",
         ".RUSTFMT.TOML": "tomlLint",
+        "rust-analyzer.toml": "tomlLint",
+        "RUST-ANALYZER.TOML": "tomlLint",
+        "Rust-analyzer.toml": "tomlLint",
         "typos.toml": "tomlLint",
         "TYPOS.TOML": "tomlLint",
         "Typos.toml": "tomlLint",
@@ -11189,6 +11780,15 @@
         ".TYPOS.TOML": "tomlLint",
         "_typos.toml": "tomlLint",
         "_TYPOS.TOML": "tomlLint",
+        "rust-toolchain": "tomlTool",
+        "RUST-TOOLCHAIN": "tomlTool",
+        "Rust-toolchain": "tomlTool",
+        "rust-toolchain.toml": "tomlTool",
+        "RUST-TOOLCHAIN.TOML": "tomlTool",
+        "Rust-toolchain.toml": "tomlTool",
+        "history.toml": "tomlVersion",
+        "HISTORY.TOML": "tomlVersion",
+        "History.toml": "tomlVersion",
         "apple-touch-icon.png": "touchicon",
         "APPLE-TOUCH-ICON.PNG": "touchicon",
         "Apple-touch-icon.png": "touchicon",
@@ -11254,6 +11854,15 @@
         "tsconfig.test.json": "tsConfig",
         "TSCONFIG.TEST.JSON": "tsConfig",
         "Tsconfig.test.json": "tsConfig",
+        "tsconfig.check.android.json": "tsConfig",
+        "TSCONFIG.CHECK.ANDROID.JSON": "tsConfig",
+        "Tsconfig.check.android.json": "tsConfig",
+        "tsconfig.check.ios.json": "tsConfig",
+        "TSCONFIG.CHECK.IOS.JSON": "tsConfig",
+        "Tsconfig.check.ios.json": "tsConfig",
+        "tsconfig.check.web.json": "tsConfig",
+        "TSCONFIG.CHECK.WEB.JSON": "tsConfig",
+        "Tsconfig.check.web.json": "tsConfig",
         "tsconfig.json": "tsConfig",
         "TSCONFIG.JSON": "tsConfig",
         "Tsconfig.json": "tsConfig",
@@ -11556,6 +12165,9 @@
         "webpack.config.js": "webpack",
         "WEBPACK.CONFIG.JS": "webpack",
         "Webpack.config.js": "webpack",
+        "webpack.config.ts": "webpack",
+        "WEBPACK.CONFIG.TS": "webpack",
+        "Webpack.config.ts": "webpack",
         "webpacker.yml": "webpack",
         "WEBPACKER.YML": "webpack",
         "Webpacker.yml": "webpack",
@@ -11740,6 +12352,46 @@
           "collapsed": "./icons/adobeFolder.svg",
           "expanded": "./icons/adobeFolderX.svg"
         },
+        "activities": {
+          "collapsed": "./icons/analyticsFolder.svg",
+          "expanded": "./icons/analyticsFolderX.svg"
+        },
+        "activity": {
+          "collapsed": "./icons/analyticsFolder.svg",
+          "expanded": "./icons/analyticsFolderX.svg"
+        },
+        "analytic": {
+          "collapsed": "./icons/analyticsFolder.svg",
+          "expanded": "./icons/analyticsFolderX.svg"
+        },
+        "analytics": {
+          "collapsed": "./icons/analyticsFolder.svg",
+          "expanded": "./icons/analyticsFolderX.svg"
+        },
+        "identifier": {
+          "collapsed": "./icons/analyticsFolder.svg",
+          "expanded": "./icons/analyticsFolderX.svg"
+        },
+        "identifiers": {
+          "collapsed": "./icons/analyticsFolder.svg",
+          "expanded": "./icons/analyticsFolderX.svg"
+        },
+        "metrics": {
+          "collapsed": "./icons/analyticsFolder.svg",
+          "expanded": "./icons/analyticsFolderX.svg"
+        },
+        "tracker": {
+          "collapsed": "./icons/analyticsFolder.svg",
+          "expanded": "./icons/analyticsFolderX.svg"
+        },
+        "trackers": {
+          "collapsed": "./icons/analyticsFolder.svg",
+          "expanded": "./icons/analyticsFolderX.svg"
+        },
+        "tracking": {
+          "collapsed": "./icons/analyticsFolder.svg",
+          "expanded": "./icons/analyticsFolderX.svg"
+        },
         "android": {
           "collapsed": "./icons/androidFolder.svg",
           "expanded": "./icons/androidFolderX.svg"
@@ -12148,6 +12800,14 @@
           "collapsed": "./icons/broadcastFolder.svg",
           "expanded": "./icons/broadcastFolderX.svg"
         },
+        "live": {
+          "collapsed": "./icons/broadcastFolder.svg",
+          "expanded": "./icons/broadcastFolderX.svg"
+        },
+        "liveevents": {
+          "collapsed": "./icons/broadcastFolder.svg",
+          "expanded": "./icons/broadcastFolderX.svg"
+        },
         "buildkite": {
           "collapsed": "./icons/buildkiteFolder.svg",
           "expanded": "./icons/buildkiteFolderX.svg"
@@ -12264,11 +12924,31 @@
           "collapsed": "./icons/certificateFolder.svg",
           "expanded": "./icons/certificateFolderX.svg"
         },
+        "article": {
+          "collapsed": "./icons/chatFolder.svg",
+          "expanded": "./icons/chatFolderX.svg"
+        },
+        "articles": {
+          "collapsed": "./icons/chatFolder.svg",
+          "expanded": "./icons/chatFolderX.svg"
+        },
+        "blog": {
+          "collapsed": "./icons/chatFolder.svg",
+          "expanded": "./icons/chatFolderX.svg"
+        },
+        "blogs": {
+          "collapsed": "./icons/chatFolder.svg",
+          "expanded": "./icons/chatFolderX.svg"
+        },
         "chat": {
           "collapsed": "./icons/chatFolder.svg",
           "expanded": "./icons/chatFolderX.svg"
         },
         "chats": {
+          "collapsed": "./icons/chatFolder.svg",
+          "expanded": "./icons/chatFolderX.svg"
+        },
+        "communication": {
           "collapsed": "./icons/chatFolder.svg",
           "expanded": "./icons/chatFolderX.svg"
         },
@@ -12285,6 +12965,14 @@
           "expanded": "./icons/chatFolderX.svg"
         },
         "convos": {
+          "collapsed": "./icons/chatFolder.svg",
+          "expanded": "./icons/chatFolderX.svg"
+        },
+        "dialog": {
+          "collapsed": "./icons/chatFolder.svg",
+          "expanded": "./icons/chatFolderX.svg"
+        },
+        "dialogs": {
           "collapsed": "./icons/chatFolder.svg",
           "expanded": "./icons/chatFolderX.svg"
         },
@@ -12337,6 +13025,14 @@
           "expanded": "./icons/chatFolderX.svg"
         },
         "posts": {
+          "collapsed": "./icons/chatFolder.svg",
+          "expanded": "./icons/chatFolderX.svg"
+        },
+        "thread": {
+          "collapsed": "./icons/chatFolder.svg",
+          "expanded": "./icons/chatFolderX.svg"
+        },
+        "threads": {
           "collapsed": "./icons/chatFolder.svg",
           "expanded": "./icons/chatFolderX.svg"
         },
@@ -13092,6 +13788,14 @@
           "collapsed": "./icons/distFolder.svg",
           "expanded": "./icons/distFolderX.svg"
         },
+        "product": {
+          "collapsed": "./icons/distFolder.svg",
+          "expanded": "./icons/distFolderX.svg"
+        },
+        "products": {
+          "collapsed": "./icons/distFolder.svg",
+          "expanded": "./icons/distFolderX.svg"
+        },
         "pub": {
           "collapsed": "./icons/distFolder.svg",
           "expanded": "./icons/distFolderX.svg"
@@ -13560,6 +14264,14 @@
           "collapsed": "./icons/eventFolder.svg",
           "expanded": "./icons/eventFolderX.svg"
         },
+        "demo": {
+          "collapsed": "./icons/exampleFolder.svg",
+          "expanded": "./icons/exampleFolderX.svg"
+        },
+        "demos": {
+          "collapsed": "./icons/exampleFolder.svg",
+          "expanded": "./icons/exampleFolderX.svg"
+        },
         "dem": {
           "collapsed": "./icons/exampleFolder.svg",
           "expanded": "./icons/exampleFolderX.svg"
@@ -13705,6 +14417,10 @@
           "expanded": "./icons/feedbackFolderX.svg"
         },
         "questions": {
+          "collapsed": "./icons/feedbackFolder.svg",
+          "expanded": "./icons/feedbackFolderX.svg"
+        },
+        "reporting": {
           "collapsed": "./icons/feedbackFolder.svg",
           "expanded": "./icons/feedbackFolderX.svg"
         },
@@ -14220,6 +14936,10 @@
           "collapsed": "./icons/groupFolder.svg",
           "expanded": "./icons/groupFolderX.svg"
         },
+        "grouped": {
+          "collapsed": "./icons/groupFolder.svg",
+          "expanded": "./icons/groupFolderX.svg"
+        },
         "group": {
           "collapsed": "./icons/groupFolder.svg",
           "expanded": "./icons/groupFolderX.svg"
@@ -14460,6 +15180,14 @@
           "collapsed": "./icons/imageFolder.svg",
           "expanded": "./icons/imageFolderX.svg"
         },
+        "galleries": {
+          "collapsed": "./icons/imageFolder.svg",
+          "expanded": "./icons/imageFolderX.svg"
+        },
+        "gallery": {
+          "collapsed": "./icons/imageFolder.svg",
+          "expanded": "./icons/imageFolderX.svg"
+        },
         "image": {
           "collapsed": "./icons/imageFolder.svg",
           "expanded": "./icons/imageFolderX.svg"
@@ -14524,6 +15252,14 @@
           "collapsed": "./icons/imageFolder.svg",
           "expanded": "./icons/imageFolderX.svg"
         },
+        "poster": {
+          "collapsed": "./icons/imageFolder.svg",
+          "expanded": "./icons/imageFolderX.svg"
+        },
+        "posters": {
+          "collapsed": "./icons/imageFolder.svg",
+          "expanded": "./icons/imageFolderX.svg"
+        },
         "screengrab": {
           "collapsed": "./icons/imageFolder.svg",
           "expanded": "./icons/imageFolderX.svg"
@@ -14537,6 +15273,26 @@
           "expanded": "./icons/imageFolderX.svg"
         },
         "screenshots": {
+          "collapsed": "./icons/imageFolder.svg",
+          "expanded": "./icons/imageFolderX.svg"
+        },
+        "splash": {
+          "collapsed": "./icons/imageFolder.svg",
+          "expanded": "./icons/imageFolderX.svg"
+        },
+        "thumbnail": {
+          "collapsed": "./icons/imageFolder.svg",
+          "expanded": "./icons/imageFolderX.svg"
+        },
+        "thumbnails": {
+          "collapsed": "./icons/imageFolder.svg",
+          "expanded": "./icons/imageFolderX.svg"
+        },
+        "thumb": {
+          "collapsed": "./icons/imageFolder.svg",
+          "expanded": "./icons/imageFolderX.svg"
+        },
+        "thumbs": {
           "collapsed": "./icons/imageFolder.svg",
           "expanded": "./icons/imageFolderX.svg"
         },
@@ -14741,6 +15497,14 @@
           "expanded": "./icons/keyFolderX.svg"
         },
         "hmac": {
+          "collapsed": "./icons/keyFolder.svg",
+          "expanded": "./icons/keyFolderX.svg"
+        },
+        "identities": {
+          "collapsed": "./icons/keyFolder.svg",
+          "expanded": "./icons/keyFolderX.svg"
+        },
+        "identity": {
           "collapsed": "./icons/keyFolder.svg",
           "expanded": "./icons/keyFolderX.svg"
         },
@@ -14980,6 +15744,14 @@
           "collapsed": "./icons/linkFolder.svg",
           "expanded": "./icons/linkFolderX.svg"
         },
+        "checker": {
+          "collapsed": "./icons/lintFolder.svg",
+          "expanded": "./icons/lintFolderX.svg"
+        },
+        "checkers": {
+          "collapsed": "./icons/lintFolder.svg",
+          "expanded": "./icons/lintFolderX.svg"
+        },
         "check": {
           "collapsed": "./icons/lintFolder.svg",
           "expanded": "./icons/lintFolderX.svg"
@@ -14992,7 +15764,23 @@
           "collapsed": "./icons/lintFolder.svg",
           "expanded": "./icons/lintFolderX.svg"
         },
+        "format": {
+          "collapsed": "./icons/lintFolder.svg",
+          "expanded": "./icons/lintFolderX.svg"
+        },
+        "formatter": {
+          "collapsed": "./icons/lintFolder.svg",
+          "expanded": "./icons/lintFolderX.svg"
+        },
+        "formatters": {
+          "collapsed": "./icons/lintFolder.svg",
+          "expanded": "./icons/lintFolderX.svg"
+        },
         "lint": {
+          "collapsed": "./icons/lintFolder.svg",
+          "expanded": "./icons/lintFolderX.svg"
+        },
+        "lint-rules": {
           "collapsed": "./icons/lintFolder.svg",
           "expanded": "./icons/lintFolderX.svg"
         },
@@ -15377,6 +16165,18 @@
           "expanded": "./icons/mailFolderX.svg"
         },
         "smtp": {
+          "collapsed": "./icons/mailFolder.svg",
+          "expanded": "./icons/mailFolderX.svg"
+        },
+        "transport": {
+          "collapsed": "./icons/mailFolder.svg",
+          "expanded": "./icons/mailFolderX.svg"
+        },
+        "transporter": {
+          "collapsed": "./icons/mailFolder.svg",
+          "expanded": "./icons/mailFolderX.svg"
+        },
+        "transporters": {
           "collapsed": "./icons/mailFolder.svg",
           "expanded": "./icons/mailFolderX.svg"
         },
@@ -16508,6 +17308,18 @@
           "collapsed": "./icons/storageFolder.svg",
           "expanded": "./icons/storageFolderX.svg"
         },
+        "mem": {
+          "collapsed": "./icons/storageFolder.svg",
+          "expanded": "./icons/storageFolderX.svg"
+        },
+        "memory": {
+          "collapsed": "./icons/storageFolder.svg",
+          "expanded": "./icons/storageFolderX.svg"
+        },
+        "persisted": {
+          "collapsed": "./icons/storageFolder.svg",
+          "expanded": "./icons/storageFolderX.svg"
+        },
         "storage": {
           "collapsed": "./icons/storageFolder.svg",
           "expanded": "./icons/storageFolderX.svg"
@@ -16944,6 +17756,30 @@
           "collapsed": "./icons/testFolder.svg",
           "expanded": "./icons/testFolderX.svg"
         },
+        "content": {
+          "collapsed": "./icons/textFolder.svg",
+          "expanded": "./icons/textFolderX.svg"
+        },
+        "contents": {
+          "collapsed": "./icons/textFolder.svg",
+          "expanded": "./icons/textFolderX.svg"
+        },
+        "context": {
+          "collapsed": "./icons/textFolder.svg",
+          "expanded": "./icons/textFolderX.svg"
+        },
+        "contexts": {
+          "collapsed": "./icons/textFolder.svg",
+          "expanded": "./icons/textFolderX.svg"
+        },
+        "snippet": {
+          "collapsed": "./icons/textFolder.svg",
+          "expanded": "./icons/textFolderX.svg"
+        },
+        "snippets": {
+          "collapsed": "./icons/textFolder.svg",
+          "expanded": "./icons/textFolderX.svg"
+        },
         "text": {
           "collapsed": "./icons/textFolder.svg",
           "expanded": "./icons/textFolderX.svg"
@@ -16951,6 +17787,22 @@
         "texts": {
           "collapsed": "./icons/textFolder.svg",
           "expanded": "./icons/textFolderX.svg"
+        },
+        "renderer": {
+          "collapsed": "./icons/textureFolder.svg",
+          "expanded": "./icons/textureFolderX.svg"
+        },
+        "renderers": {
+          "collapsed": "./icons/textureFolder.svg",
+          "expanded": "./icons/textureFolderX.svg"
+        },
+        "render": {
+          "collapsed": "./icons/textureFolder.svg",
+          "expanded": "./icons/textureFolderX.svg"
+        },
+        "renders": {
+          "collapsed": "./icons/textureFolder.svg",
+          "expanded": "./icons/textureFolderX.svg"
         },
         "texture": {
           "collapsed": "./icons/textureFolder.svg",
@@ -16988,11 +17840,43 @@
           "collapsed": "./icons/themeFolder.svg",
           "expanded": "./icons/themeFolderX.svg"
         },
+        "drawable": {
+          "collapsed": "./icons/themeFolder.svg",
+          "expanded": "./icons/themeFolderX.svg"
+        },
+        "drawing": {
+          "collapsed": "./icons/themeFolder.svg",
+          "expanded": "./icons/themeFolderX.svg"
+        },
+        "drawings": {
+          "collapsed": "./icons/themeFolder.svg",
+          "expanded": "./icons/themeFolderX.svg"
+        },
+        "illust": {
+          "collapsed": "./icons/themeFolder.svg",
+          "expanded": "./icons/themeFolderX.svg"
+        },
+        "illustration": {
+          "collapsed": "./icons/themeFolder.svg",
+          "expanded": "./icons/themeFolderX.svg"
+        },
+        "illustrations": {
+          "collapsed": "./icons/themeFolder.svg",
+          "expanded": "./icons/themeFolderX.svg"
+        },
         "pattern": {
           "collapsed": "./icons/themeFolder.svg",
           "expanded": "./icons/themeFolderX.svg"
         },
         "patterns": {
+          "collapsed": "./icons/themeFolder.svg",
+          "expanded": "./icons/themeFolderX.svg"
+        },
+        "ui": {
+          "collapsed": "./icons/themeFolder.svg",
+          "expanded": "./icons/themeFolderX.svg"
+        },
+        "tui": {
           "collapsed": "./icons/themeFolder.svg",
           "expanded": "./icons/themeFolderX.svg"
         },
@@ -17179,6 +18063,14 @@
         "uploads": {
           "collapsed": "./icons/uploadFolder.svg",
           "expanded": "./icons/uploadFolderX.svg"
+        },
+        "actor": {
+          "collapsed": "./icons/userFolder.svg",
+          "expanded": "./icons/userFolderX.svg"
+        },
+        "actors": {
+          "collapsed": "./icons/userFolder.svg",
+          "expanded": "./icons/userFolderX.svg"
         },
         "author": {
           "collapsed": "./icons/userFolder.svg",
@@ -17558,6 +18450,9 @@
         "agda": {
           "path": "./icons/agda.svg"
         },
+        "analytics": {
+          "path": "./icons/analytics.svg"
+        },
         "android": {
           "path": "./icons/android.svg"
         },
@@ -17638,6 +18533,9 @@
         },
         "binary": {
           "path": "./icons/binary.svg"
+        },
+        "biome": {
+          "path": "./icons/biome.svg"
         },
         "bitbucket": {
           "path": "./icons/bitbucket.svg"
@@ -17779,6 +18677,9 @@
         },
         "cron": {
           "path": "./icons/cron.svg"
+        },
+        "crowdin": {
+          "path": "./icons/crowdin.svg"
         },
         "crystal": {
           "path": "./icons/crystal.svg"
@@ -18161,6 +19062,12 @@
         "javaJar": {
           "path": "./icons/javaJar.svg"
         },
+        "jekyll": {
+          "path": "./icons/jekyll.svg"
+        },
+        "jekyllIgnore": {
+          "path": "./icons/jekyllIgnore.svg"
+        },
         "jenkins": {
           "path": "./icons/jenkins.svg"
         },
@@ -18461,6 +19368,9 @@
         "partytown": {
           "path": "./icons/partytown.svg"
         },
+        "paseo": {
+          "path": "./icons/paseo.svg"
+        },
         "path": {
           "path": "./icons/path.svg"
         },
@@ -18731,6 +19641,9 @@
         "rust": {
           "path": "./icons/rust.svg"
         },
+        "rustApp": {
+          "path": "./icons/rustApp.svg"
+        },
         "rustDist": {
           "path": "./icons/rustDist.svg"
         },
@@ -18913,6 +19826,12 @@
         },
         "tomlLint": {
           "path": "./icons/tomlLint.svg"
+        },
+        "tomlTool": {
+          "path": "./icons/tomlTool.svg"
+        },
+        "tomlVersion": {
+          "path": "./icons/tomlVersion.svg"
         },
         "tool": {
           "path": "./icons/tool.svg"
@@ -20142,6 +21061,8 @@
         "LISP": "lisp",
         "ls": "livescript",
         "LS": "livescript",
+        "ftl": "locale",
+        "FTL": "locale",
         "po": "locale",
         "PO": "locale",
         "pot": "locale",
@@ -20631,6 +21552,8 @@
         "STY": "tex",
         "tex": "tex",
         "TEX": "tex",
+        "ebnf": "text",
+        "EBNF": "text",
         "txt": "text",
         "TXT": "text",
         "3d": "threed",
@@ -21115,6 +22038,12 @@
         "babel-plugin-macros.config.mjs": "babel",
         "BABEL-PLUGIN-MACROS.CONFIG.MJS": "babel",
         "Babel-plugin-macros.config.mjs": "babel",
+        "babel.config.ts": "babel",
+        "BABEL.CONFIG.TS": "babel",
+        "Babel.config.ts": "babel",
+        "babel-plugin-macros.config.ts": "babel",
+        "BABEL-PLUGIN-MACROS.CONFIG.TS": "babel",
+        "Babel-plugin-macros.config.ts": "babel",
         ".babel-plugin-macrosrc": "babel",
         ".BABEL-PLUGIN-MACROSRC": "babel",
         ".babel-plugin-macrosrc.js": "babel",
@@ -21135,6 +22064,8 @@
         ".BABELRC.JSON": "babel",
         ".babelrc.mjs": "babel",
         ".BABELRC.MJS": "babel",
+        ".babelrc.ts": "babel",
+        ".BABELRC.TS": "babel",
         "babel-transform.cjs": "babel",
         "BABEL-TRANSFORM.CJS": "babel",
         "Babel-transform.cjs": "babel",
@@ -21153,6 +22084,12 @@
         ".BAZELVERSION": "bazel",
         ".bazelignore": "bazelIgnore",
         ".BAZELIGNORE": "bazelIgnore",
+        "biome.json": "biome",
+        "BIOME.JSON": "biome",
+        "Biome.json": "biome",
+        "biome.jsonc": "biome",
+        "BIOME.JSONC": "biome",
+        "Biome.jsonc": "biome",
         "bitbucket-pipelines.yml": "bitbucket",
         "BITBUCKET-PIPELINES.YML": "bitbucket",
         "Bitbucket-pipelines.yml": "bitbucket",
@@ -21251,6 +22188,12 @@
         "jobs": "cron",
         "JOBS": "cron",
         "Jobs": "cron",
+        "crowdin.yml": "crowdin",
+        "CROWDIN.YML": "crowdin",
+        "Crowdin.yml": "crowdin",
+        "crowdin.yaml": "crowdin",
+        "CROWDIN.YAML": "crowdin",
+        "Crowdin.yaml": "crowdin",
         "app.css": "cssApp",
         "APP.CSS": "cssApp",
         "App.css": "cssApp",
@@ -21399,6 +22342,8 @@
         ".ENV.DEFAULTS": "environment",
         ".env.dist": "environment",
         ".ENV.DIST": "environment",
+        ".env.e2e": "environment",
+        ".ENV.E2E": "environment",
         ".env.example": "environment",
         ".ENV.EXAMPLE": "environment",
         ".env.sample": "environment",
@@ -21425,6 +22370,8 @@
         ".ESLINTRC.JS": "eslint",
         ".eslintrc.json": "eslint",
         ".ESLINTRC.JSON": "eslint",
+        ".eslintrc.ts": "eslint",
+        ".ESLINTRC.TS": "eslint",
         ".eslintrc.yml": "eslint",
         ".ESLINTRC.YML": "eslint",
         ".eslintrc.yaml": "eslint",
@@ -21474,6 +22421,12 @@
         "gatsby-ssr.js": "gatsby",
         "GATSBY-SSR.JS": "gatsby",
         "Gatsby-ssr.js": "gatsby",
+        "gatsby-browser.mjs": "gatsby",
+        "GATSBY-BROWSER.MJS": "gatsby",
+        "Gatsby-browser.mjs": "gatsby",
+        "gatsby-ssr.mjs": "gatsby",
+        "GATSBY-SSR.MJS": "gatsby",
+        "Gatsby-ssr.mjs": "gatsby",
         "gatsby-browser.ts": "gatsby",
         "GATSBY-BROWSER.TS": "gatsby",
         "Gatsby-browser.ts": "gatsby",
@@ -21782,12 +22735,23 @@
         ".NYCRC.YML": "istanbul",
         ".nycrc.yaml": "istanbul",
         ".NYCRC.YAML": "istanbul",
-        "nyc.config.js": "istanbul",
-        "NYC.CONFIG.JS": "istanbul",
-        "Nyc.config.js": "istanbul",
         "nyc.config.cjs": "istanbul",
         "NYC.CONFIG.CJS": "istanbul",
         "Nyc.config.cjs": "istanbul",
+        "nyc.config.js": "istanbul",
+        "NYC.CONFIG.JS": "istanbul",
+        "Nyc.config.js": "istanbul",
+        "nyc.config.ts": "istanbul",
+        "NYC.CONFIG.TS": "istanbul",
+        "Nyc.config.ts": "istanbul",
+        "_config.toml": "jekyll",
+        "_CONFIG.TOML": "jekyll",
+        "_config.yml": "jekyll",
+        "_CONFIG.YML": "jekyll",
+        "_config.yaml": "jekyll",
+        "_CONFIG.YAML": "jekyll",
+        ".nojekyll": "jekyllIgnore",
+        ".NOJEKYLL": "jekyllIgnore",
         "jenkinsfile": "jenkins",
         "JENKINSFILE": "jenkins",
         "Jenkinsfile": "jenkins",
@@ -21829,6 +22793,8 @@
         ".JESTRC.JS": "jest",
         ".jestrc.mjs": "jest",
         ".JESTRC.MJS": "jest",
+        ".jestrc.ts": "jest",
+        ".JESTRC.TS": "jest",
         "jest.config.cjs": "jest",
         "JEST.CONFIG.CJS": "jest",
         "Jest.config.cjs": "jest",
@@ -21999,63 +22965,246 @@
         "patents": "license",
         "PATENTS": "license",
         "Patents": "license",
+        "copyright": "license",
+        "COPYRIGHT": "license",
+        "Copyright": "license",
         "licence": "license",
         "LICENCE": "license",
         "Licence": "license",
         "license": "license",
         "LICENSE": "license",
         "License": "license",
-        "licence-agpl": "license",
-        "LICENCE-AGPL": "license",
-        "Licence-agpl": "license",
-        "license-agpl": "license",
-        "LICENSE-AGPL": "license",
-        "License-agpl": "license",
-        "licence-apache": "license",
-        "LICENCE-APACHE": "license",
-        "Licence-apache": "license",
-        "license-apache": "license",
-        "LICENSE-APACHE": "license",
-        "License-apache": "license",
-        "licence-gpl": "license",
-        "LICENCE-GPL": "license",
-        "Licence-gpl": "license",
-        "license-gpl": "license",
-        "LICENSE-GPL": "license",
-        "License-gpl": "license",
-        "licence-mit": "license",
-        "LICENCE-MIT": "license",
-        "Licence-mit": "license",
-        "license-mit": "license",
-        "LICENSE-MIT": "license",
-        "License-mit": "license",
+        "notice": "license",
+        "NOTICE": "license",
+        "Notice": "license",
+        "notices": "license",
+        "NOTICES": "license",
+        "Notices": "license",
+        "copyright.md": "license",
+        "COPYRIGHT.MD": "license",
+        "Copyright.md": "license",
         "licence.md": "license",
         "LICENCE.MD": "license",
         "Licence.md": "license",
         "license.md": "license",
         "LICENSE.MD": "license",
         "License.md": "license",
+        "notice.md": "license",
+        "NOTICE.MD": "license",
+        "Notice.md": "license",
+        "notices.md": "license",
+        "NOTICES.MD": "license",
+        "Notices.md": "license",
+        "copyright.rst": "license",
+        "COPYRIGHT.RST": "license",
+        "Copyright.rst": "license",
         "licence.rst": "license",
         "LICENCE.RST": "license",
         "Licence.rst": "license",
         "license.rst": "license",
         "LICENSE.RST": "license",
         "License.rst": "license",
+        "notice.rst": "license",
+        "NOTICE.RST": "license",
+        "Notice.rst": "license",
+        "notices.rst": "license",
+        "NOTICES.RST": "license",
+        "Notices.rst": "license",
+        "copyright.txt": "license",
+        "COPYRIGHT.TXT": "license",
+        "Copyright.txt": "license",
         "licence.txt": "license",
         "LICENCE.TXT": "license",
         "Licence.txt": "license",
         "license.txt": "license",
         "LICENSE.TXT": "license",
         "License.txt": "license",
-        "copyright": "license",
-        "COPYRIGHT": "license",
-        "Copyright": "license",
-        "copyright.md": "license",
-        "COPYRIGHT.MD": "license",
-        "Copyright.md": "license",
-        "copyright.txt": "license",
-        "COPYRIGHT.TXT": "license",
-        "Copyright.txt": "license",
+        "notice.txt": "license",
+        "NOTICE.TXT": "license",
+        "Notice.txt": "license",
+        "notices.txt": "license",
+        "NOTICES.TXT": "license",
+        "Notices.txt": "license",
+        "licence-agpl": "license",
+        "LICENCE-AGPL": "license",
+        "Licence-agpl": "license",
+        "license-agpl": "license",
+        "LICENSE-AGPL": "license",
+        "License-agpl": "license",
+        "licence_agpl": "license",
+        "LICENCE_AGPL": "license",
+        "Licence_agpl": "license",
+        "license_agpl": "license",
+        "LICENSE_AGPL": "license",
+        "License_agpl": "license",
+        "licence-apache": "license",
+        "LICENCE-APACHE": "license",
+        "Licence-apache": "license",
+        "license-apache": "license",
+        "LICENSE-APACHE": "license",
+        "License-apache": "license",
+        "licence_apache": "license",
+        "LICENCE_APACHE": "license",
+        "Licence_apache": "license",
+        "license_apache": "license",
+        "LICENSE_APACHE": "license",
+        "License_apache": "license",
+        "licence-bsd": "license",
+        "LICENCE-BSD": "license",
+        "Licence-bsd": "license",
+        "license-bsd": "license",
+        "LICENSE-BSD": "license",
+        "License-bsd": "license",
+        "licence_bsd": "license",
+        "LICENCE_BSD": "license",
+        "Licence_bsd": "license",
+        "license_bsd": "license",
+        "LICENSE_BSD": "license",
+        "License_bsd": "license",
+        "licence-gpl": "license",
+        "LICENCE-GPL": "license",
+        "Licence-gpl": "license",
+        "license-gpl": "license",
+        "LICENSE-GPL": "license",
+        "License-gpl": "license",
+        "licence_gpl": "license",
+        "LICENCE_GPL": "license",
+        "Licence_gpl": "license",
+        "license_gpl": "license",
+        "LICENSE_GPL": "license",
+        "License_gpl": "license",
+        "licence-mit": "license",
+        "LICENCE-MIT": "license",
+        "Licence-mit": "license",
+        "license-mit": "license",
+        "LICENSE-MIT": "license",
+        "License-mit": "license",
+        "licence_mit": "license",
+        "LICENCE_MIT": "license",
+        "Licence_mit": "license",
+        "license_mit": "license",
+        "LICENSE_MIT": "license",
+        "License_mit": "license",
+        "licence-agpl.rst": "license",
+        "LICENCE-AGPL.RST": "license",
+        "Licence-agpl.rst": "license",
+        "license-agpl.rst": "license",
+        "LICENSE-AGPL.RST": "license",
+        "License-agpl.rst": "license",
+        "licence_agpl.rst": "license",
+        "LICENCE_AGPL.RST": "license",
+        "Licence_agpl.rst": "license",
+        "license_agpl.rst": "license",
+        "LICENSE_AGPL.RST": "license",
+        "License_agpl.rst": "license",
+        "licence-apache.rst": "license",
+        "LICENCE-APACHE.RST": "license",
+        "Licence-apache.rst": "license",
+        "license-apache.rst": "license",
+        "LICENSE-APACHE.RST": "license",
+        "License-apache.rst": "license",
+        "licence_apache.rst": "license",
+        "LICENCE_APACHE.RST": "license",
+        "Licence_apache.rst": "license",
+        "license_apache.rst": "license",
+        "LICENSE_APACHE.RST": "license",
+        "License_apache.rst": "license",
+        "licence-bsd.rst": "license",
+        "LICENCE-BSD.RST": "license",
+        "Licence-bsd.rst": "license",
+        "license-bsd.rst": "license",
+        "LICENSE-BSD.RST": "license",
+        "License-bsd.rst": "license",
+        "licence_bsd.rst": "license",
+        "LICENCE_BSD.RST": "license",
+        "Licence_bsd.rst": "license",
+        "license_bsd.rst": "license",
+        "LICENSE_BSD.RST": "license",
+        "License_bsd.rst": "license",
+        "licence-gpl.rst": "license",
+        "LICENCE-GPL.RST": "license",
+        "Licence-gpl.rst": "license",
+        "license-gpl.rst": "license",
+        "LICENSE-GPL.RST": "license",
+        "License-gpl.rst": "license",
+        "licence_gpl.rst": "license",
+        "LICENCE_GPL.RST": "license",
+        "Licence_gpl.rst": "license",
+        "license_gpl.rst": "license",
+        "LICENSE_GPL.RST": "license",
+        "License_gpl.rst": "license",
+        "licence-mit.rst": "license",
+        "LICENCE-MIT.RST": "license",
+        "Licence-mit.rst": "license",
+        "license-mit.rst": "license",
+        "LICENSE-MIT.RST": "license",
+        "License-mit.rst": "license",
+        "licence_mit.rst": "license",
+        "LICENCE_MIT.RST": "license",
+        "Licence_mit.rst": "license",
+        "license_mit.rst": "license",
+        "LICENSE_MIT.RST": "license",
+        "License_mit.rst": "license",
+        "licence-agpl.txt": "license",
+        "LICENCE-AGPL.TXT": "license",
+        "Licence-agpl.txt": "license",
+        "license-agpl.txt": "license",
+        "LICENSE-AGPL.TXT": "license",
+        "License-agpl.txt": "license",
+        "licence_agpl.txt": "license",
+        "LICENCE_AGPL.TXT": "license",
+        "Licence_agpl.txt": "license",
+        "license_agpl.txt": "license",
+        "LICENSE_AGPL.TXT": "license",
+        "License_agpl.txt": "license",
+        "licence-apache.txt": "license",
+        "LICENCE-APACHE.TXT": "license",
+        "Licence-apache.txt": "license",
+        "license-apache.txt": "license",
+        "LICENSE-APACHE.TXT": "license",
+        "License-apache.txt": "license",
+        "licence_apache.txt": "license",
+        "LICENCE_APACHE.TXT": "license",
+        "Licence_apache.txt": "license",
+        "license_apache.txt": "license",
+        "LICENSE_APACHE.TXT": "license",
+        "License_apache.txt": "license",
+        "licence-bsd.txt": "license",
+        "LICENCE-BSD.TXT": "license",
+        "Licence-bsd.txt": "license",
+        "license-bsd.txt": "license",
+        "LICENSE-BSD.TXT": "license",
+        "License-bsd.txt": "license",
+        "licence_bsd.txt": "license",
+        "LICENCE_BSD.TXT": "license",
+        "Licence_bsd.txt": "license",
+        "license_bsd.txt": "license",
+        "LICENSE_BSD.TXT": "license",
+        "License_bsd.txt": "license",
+        "licence-gpl.txt": "license",
+        "LICENCE-GPL.TXT": "license",
+        "Licence-gpl.txt": "license",
+        "license-gpl.txt": "license",
+        "LICENSE-GPL.TXT": "license",
+        "License-gpl.txt": "license",
+        "licence_gpl.txt": "license",
+        "LICENCE_GPL.TXT": "license",
+        "Licence_gpl.txt": "license",
+        "license_gpl.txt": "license",
+        "LICENSE_GPL.TXT": "license",
+        "License_gpl.txt": "license",
+        "licence-mit.txt": "license",
+        "LICENCE-MIT.TXT": "license",
+        "Licence-mit.txt": "license",
+        "license-mit.txt": "license",
+        "LICENSE-MIT.TXT": "license",
+        "License-mit.txt": "license",
+        "licence_mit.txt": "license",
+        "LICENCE_MIT.TXT": "license",
+        "Licence_mit.txt": "license",
+        "license_mit.txt": "license",
+        "LICENSE_MIT.TXT": "license",
+        "License_mit.txt": "license",
         "lighthouserc.cjs": "lighthouse",
         "LIGHTHOUSERC.CJS": "lighthouse",
         "Lighthouserc.cjs": "lighthouse",
@@ -22071,6 +23220,11 @@
         "Lighthouserc.json": "lighthouse",
         ".lighthouserc.json": "lighthouse",
         ".LIGHTHOUSERC.JSON": "lighthouse",
+        "lighthouserc.ts": "lighthouse",
+        "LIGHTHOUSERC.TS": "lighthouse",
+        "Lighthouserc.ts": "lighthouse",
+        ".lighthouserc.ts": "lighthouse",
+        ".LIGHTHOUSERC.TS": "lighthouse",
         "lighthouserc.yml": "lighthouse",
         "LIGHTHOUSERC.YML": "lighthouse",
         "Lighthouserc.yml": "lighthouse",
@@ -22084,6 +23238,9 @@
         "lingui.config.js": "lingui",
         "LINGUI.CONFIG.JS": "lingui",
         "Lingui.config.js": "lingui",
+        "lingui.config.ts": "lingui",
+        "LINGUI.CONFIG.TS": "lingui",
+        "Lingui.config.ts": "lingui",
         "check": "lint",
         "CHECK": "lint",
         "Check": "lint",
@@ -22158,6 +23315,9 @@
         "metro.config.json": "metro",
         "METRO.CONFIG.JSON": "metro",
         "Metro.config.json": "metro",
+        "metro.config.ts": "metro",
+        "METRO.CONFIG.TS": "metro",
+        "Metro.config.ts": "metro",
         ".mcattributes": "minecraft",
         ".MCATTRIBUTES": "minecraft",
         ".mcdefinitions": "minecraft",
@@ -22170,6 +23330,8 @@
         ".MOCHARC.JSON": "mocha",
         ".mocharc.jsonc": "mocha",
         ".MOCHARC.JSONC": "mocha",
+        ".mocharc.ts": "mocha",
+        ".MOCHARC.TS": "mocha",
         ".mocharc.yml": "mocha",
         ".MOCHARC.YML": "mocha",
         ".mocharc.yaml": "mocha",
@@ -22183,6 +23345,8 @@
         ".MODERNIZRRC.JS": "modernizr",
         ".modernizrrc.json": "modernizr",
         ".MODERNIZRRC.JSON": "modernizr",
+        ".modernizrrc.ts": "modernizr",
+        ".MODERNIZRRC.TS": "modernizr",
         "nano-staged.cjs": "nanostaged",
         "NANO-STAGED.CJS": "nanostaged",
         "Nano-staged.cjs": "nanostaged",
@@ -22203,6 +23367,11 @@
         "Nano-staged.mjs": "nanostaged",
         ".nano-staged.mjs": "nanostaged",
         ".NANO-STAGED.MJS": "nanostaged",
+        "nano-staged.ts": "nanostaged",
+        "NANO-STAGED.TS": "nanostaged",
+        "Nano-staged.ts": "nanostaged",
+        ".nano-staged.ts": "nanostaged",
+        ".NANO-STAGED.TS": "nanostaged",
         ".nanostagedrc": "nanostaged",
         ".NANOSTAGEDRC": "nanostaged",
         "netlify.toml": "netlify",
@@ -22274,6 +23443,11 @@
         "partytown": "partytown",
         "PARTYTOWN": "partytown",
         "Partytown": "partytown",
+        ".paseo/config.json": "paseo",
+        ".PASEO/CONFIG.JSON": "paseo",
+        "paseo.json": "paseo",
+        "PASEO.JSON": "paseo",
+        "Paseo.json": "paseo",
         ".percy.yml": "percy",
         ".PERCY.YML": "percy",
         ".huskyrc": "pet",
@@ -22282,6 +23456,8 @@
         ".HUSKYRC.JS": "pet",
         ".huskyrc.json": "pet",
         ".HUSKYRC.JSON": "pet",
+        ".huskyrc.ts": "pet",
+        ".HUSKYRC.TS": "pet",
         ".huskyrc.yml": "pet",
         ".HUSKYRC.YML": "pet",
         ".huskyrc.yaml": "pet",
@@ -22289,6 +23465,9 @@
         "husky.config.js": "pet",
         "HUSKY.CONFIG.JS": "pet",
         "Husky.config.js": "pet",
+        "husky.config.ts": "pet",
+        "HUSKY.CONFIG.TS": "pet",
+        "Husky.config.ts": "pet",
         "plasmic.json": "plasmic",
         "PLASMIC.JSON": "plasmic",
         "Plasmic.json": "plasmic",
@@ -22368,6 +23547,8 @@
         ".PRETTIERRC.MJS": "prettier",
         ".prettierrc.toml": "prettier",
         ".PRETTIERRC.TOML": "prettier",
+        ".prettierrc.ts": "prettier",
+        ".PRETTIERRC.TS": "prettier",
         ".prettierrc.yml": "prettier",
         ".PRETTIERRC.YML": "prettier",
         ".prettierrc.yaml": "prettier",
@@ -22381,6 +23562,9 @@
         "prettier.config.mjs": "prettier",
         "PRETTIER.CONFIG.MJS": "prettier",
         "Prettier.config.mjs": "prettier",
+        "prettier.config.ts": "prettier",
+        "PRETTIER.CONFIG.TS": "prettier",
+        "Prettier.config.ts": "prettier",
         ".prettierignore": "prettierIgnore",
         ".PRETTIERIGNORE": "prettierIgnore",
         "protractor.conf.js": "protractor",
@@ -22401,6 +23585,8 @@
         ".PUG-LINTRC.JS": "pugLint",
         ".pug-lintrc.json": "pugLint",
         ".PUG-LINTRC.JSON": "pugLint",
+        ".pug-lintrc.ts": "pugLint",
+        ".PUG-LINTRC.TS": "pugLint",
         "manifest.json": "pwa",
         "MANIFEST.JSON": "pwa",
         "Manifest.json": "pwa",
@@ -22635,6 +23821,12 @@
         "run": "run",
         "RUN": "run",
         "Run": "run",
+        "app.rs": "rustApp",
+        "APP.RS": "rustApp",
+        "App.rs": "rustApp",
+        "application.rs": "rustApp",
+        "APPLICATION.RS": "rustApp",
+        "Application.rs": "rustApp",
         "build.rs": "rustDist",
         "BUILD.RS": "rustDist",
         "Build.rs": "rustDist",
@@ -22749,6 +23941,8 @@
         ".STYLELINTRC.JS": "stylelint",
         ".stylelintrc.json": "stylelint",
         ".STYLELINTRC.JSON": "stylelint",
+        ".stylelintrc.ts": "stylelint",
+        ".STYLELINTRC.TS": "stylelint",
         ".stylelintrc.yml": "stylelint",
         ".STYLELINTRC.YML": "stylelint",
         ".stylelintrc.yaml": "stylelint",
@@ -22759,6 +23953,9 @@
         "stylelint.config.js": "stylelint",
         "STYLELINT.CONFIG.JS": "stylelint",
         "Stylelint.config.js": "stylelint",
+        "stylelint.config.ts": "stylelint",
+        "STYLELINT.CONFIG.TS": "stylelint",
+        "Stylelint.config.ts": "stylelint",
         ".stylelintignore": "stylelintIgnore",
         ".STYLELINTIGNORE": "stylelintIgnore",
         "supabase.js": "supabase",
@@ -22791,6 +23988,9 @@
         "svgo.config.mjs": "svgo",
         "SVGO.CONFIG.MJS": "svgo",
         "Svgo.config.mjs": "svgo",
+        "svgo.config.ts": "svgo",
+        "SVGO.CONFIG.TS": "svgo",
+        "Svgo.config.ts": "svgo",
         ".swcrc": "swc",
         ".SWCRC": "swc",
         "tailwind.config.cjs": "tailwind",
@@ -22875,6 +24075,9 @@
         "Rustfmt.toml": "tomlLint",
         ".rustfmt.toml": "tomlLint",
         ".RUSTFMT.TOML": "tomlLint",
+        "rust-analyzer.toml": "tomlLint",
+        "RUST-ANALYZER.TOML": "tomlLint",
+        "Rust-analyzer.toml": "tomlLint",
         "typos.toml": "tomlLint",
         "TYPOS.TOML": "tomlLint",
         "Typos.toml": "tomlLint",
@@ -22882,6 +24085,15 @@
         ".TYPOS.TOML": "tomlLint",
         "_typos.toml": "tomlLint",
         "_TYPOS.TOML": "tomlLint",
+        "rust-toolchain": "tomlTool",
+        "RUST-TOOLCHAIN": "tomlTool",
+        "Rust-toolchain": "tomlTool",
+        "rust-toolchain.toml": "tomlTool",
+        "RUST-TOOLCHAIN.TOML": "tomlTool",
+        "Rust-toolchain.toml": "tomlTool",
+        "history.toml": "tomlVersion",
+        "HISTORY.TOML": "tomlVersion",
+        "History.toml": "tomlVersion",
         "apple-touch-icon.png": "touchicon",
         "APPLE-TOUCH-ICON.PNG": "touchicon",
         "Apple-touch-icon.png": "touchicon",
@@ -22947,6 +24159,15 @@
         "tsconfig.test.json": "tsConfig",
         "TSCONFIG.TEST.JSON": "tsConfig",
         "Tsconfig.test.json": "tsConfig",
+        "tsconfig.check.android.json": "tsConfig",
+        "TSCONFIG.CHECK.ANDROID.JSON": "tsConfig",
+        "Tsconfig.check.android.json": "tsConfig",
+        "tsconfig.check.ios.json": "tsConfig",
+        "TSCONFIG.CHECK.IOS.JSON": "tsConfig",
+        "Tsconfig.check.ios.json": "tsConfig",
+        "tsconfig.check.web.json": "tsConfig",
+        "TSCONFIG.CHECK.WEB.JSON": "tsConfig",
+        "Tsconfig.check.web.json": "tsConfig",
         "tsconfig.json": "tsConfig",
         "TSCONFIG.JSON": "tsConfig",
         "Tsconfig.json": "tsConfig",
@@ -23249,6 +24470,9 @@
         "webpack.config.js": "webpack",
         "WEBPACK.CONFIG.JS": "webpack",
         "Webpack.config.js": "webpack",
+        "webpack.config.ts": "webpack",
+        "WEBPACK.CONFIG.TS": "webpack",
+        "Webpack.config.ts": "webpack",
         "webpacker.yml": "webpack",
         "WEBPACKER.YML": "webpack",
         "Webpacker.yml": "webpack",

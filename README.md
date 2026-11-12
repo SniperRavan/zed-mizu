@@ -1,13 +1,13 @@
 # Mizu Icon Theme for Zed
 
-700+ icons for many languages and frameworks, converted from the VS Code [mizu](https://github.com/m39u/mizu) extension for [Zed](https://zed.dev).
+750+ icons for many languages and frameworks, converted from the VS Code [mizu](https://github.com/m39u/mizu) extension for [Zed](https://zed.dev).
 
 ## Features
 
-- **700+ language, framework, and tool icons**: Full coverage matching VS Code Mizu.
-- **1,450+ Named Folder Icons**: Collapsed and expanded variants for components, routes, models, tests, docker, git, rust crates, etc.
+- **750+ language, framework, and tool icons**: Full coverage matching VS Code Mizu.
+- **1,520+ Named Folder Icons**: Collapsed and expanded variants for components, routes, models, tests, docker, git, rust crates, etc.
 - **1,890+ File Suffix Associations**: Supports compound extensions like `.blade.php`, `.d.ts`, `.spec.tsx`, `.config.js`, etc.
-- **2,330+ File Stem Associations**: Recognizes exact filenames (`Cargo.toml`, `Makefile`, `Dockerfile`, `.env`, etc.) with case insensitivity.
+- **2,630+ File Stem Associations**: Recognizes exact filenames (`Cargo.toml`, `Makefile`, `Dockerfile`, `.env`, etc.) with case insensitivity.
 - **Light and Dark Appearance**: Works in both light and dark Zed modes.
 
 ## Zed Directory Structure
@@ -23,7 +23,7 @@ zed-mizu/
 │   ├── folder.svg
 │   ├── folderX.svg
 │   ├── file.svg
-│   └── *.svg (970+ SVGs)
+│   └── *.svg (980+ SVGs)
 ├── build.js
 └── test.js
 ```
