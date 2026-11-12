@@ -96,4 +96,14 @@ for (const theme of themeData.themes) {
   console.log(`   - File stems: ${Object.keys(theme.file_stems).length}`);
 }
 
+// 4. SVG Tag Integrity Verification
+const svgFiles = fs.readdirSync(iconsDir).filter((f) => f.endsWith(".svg"));
+for (const file of svgFiles) {
+  const content = fs.readFileSync(path.join(iconsDir, file), "utf8");
+  const openG = (content.match(/<g[\s>]/g) || []).length;
+  const closeG = (content.match(/<\/g>/g) || []).length;
+  assert.strictEqual(openG, closeG, `Mismatched <g> tags in ${file}: opened ${openG}, closed ${closeG}`);
+}
+console.log(`✓ All ${svgFiles.length} SVG files verified for valid tag structure.`);
+
 console.log("\nAll self-check assertions passed successfully! 🚀");

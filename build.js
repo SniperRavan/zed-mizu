@@ -18,10 +18,10 @@ fs.mkdirSync(themesDir, { recursive: true });
 
 function extractIcons(filePath) {
   const content = fs.readFileSync(filePath, "utf8");
-  const matches = content.match(/<g.+?<\/g>/gs) || [];
+  const matches = content.match(/^  <g id="([^"]+)".*?^  <\/g>/gms) || [];
   const result = {};
   for (const group of matches) {
-    const m = /<g id="([^"]+)".*?>(.+)<\/g>/s.exec(group);
+    const m = /^  <g id="([^"]+)".*?>(.+)  <\/g>/s.exec(group);
     if (!m) continue;
     const [, id, svg] = m;
     if (id.startsWith("_")) continue;
